@@ -32,6 +32,7 @@ public class Array_Reverse {
 		{
 			System.out.print(a[p] + " ");
 		}
+		System.out.println();
 	}
 
 }
